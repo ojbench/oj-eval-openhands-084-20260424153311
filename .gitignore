@@ -1,0 +1,4 @@
+test
+*.o
+*.out
+main.cpp
